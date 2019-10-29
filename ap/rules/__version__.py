@@ -1,0 +1,9 @@
+__title__ = 'ap-rules'
+__description__ = 'A simple, python-based rules engine.'
+__url__ = ''
+__version__ = '0.1.0'
+__author__ = 'Anna Poulakos'
+__author_email__ = 'anna.poulakos@gmail.com'
+__license__ = 'MIT'
+__copyright__ = 'Copyright 2019 Anna Poulakos'
+__cake__ = u'\u2728 \U0001f370 \u2728'      # Thanks, Requests <https://requests.readthedocs.io>!
